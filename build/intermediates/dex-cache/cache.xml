@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\ZBarScanProj\app\libs\zbardecoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4553499249a43cac44faec812aa7003adec334e2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\ZBarScanProj\app\build\intermediates\pre-dexed\debug\zbardecoder_4563028c65efac3617f013c1ddc411cc4b28bc62.jar" />
+    </item>
+
+</items>
